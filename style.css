@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+footer{
+    padding-top: 80px;
+    max-width: 1440px;
+    margin: 0 auto;
+background: var(--colour-1, #d0d6ee); 
+}
+.foot{
+    display: flex;
+    gap: 120px;
+    padding-left: 160px;
+}
+.foot1 img{
+  padding-bottom: 20px;  
+    
+}
+.foot1 .tel{
+    display: flex;
+    padding-top: 50px;
+}
+.foot1 .sms{
+display: flex;
+padding-top: 20px;
+}
+.foot1 .p1{
+    width: 188px;
+    height: 35px;
+}
+ul li{
+margin-bottom: 15px;
+}
+ul{
+    margin-top: 30px;
+}
+
+.foot2 ul li{
+    list-style: none;
+}
+.foot2 ul li a{
+    text-decoration: none;
+    color: black;
+}
+.foot3 ul li{
+    list-style: none;
+}
+.foot3 ul li a{
+    text-decoration: none;
+    color: black;
+}
+.foot4 .h2{
+    width: 254px;
+    height: 43px;
+}
+input{
+    width: 350px;
+    height: 60px;
+    border: solid none;
+    position: relative;
+    margin-top: 30px;
+    border-radius: 15px;
+
+}
+.aylana{
+ position: absolute; 
+ left: 1230px;
+ top: 158px;
+   
+}
+ .stirelka{
+ position: absolute;  
+left: 1245px;
+top: 175px;
+} 
+.tex{
+    padding-top: 30px;
+}
+.instagram{
+    padding-top: 30px;
+}
+.blak{
+    width: 1440px;
+    height: 50px;
+    background-color: black;
+    margin-top: 100px;
+}
+.lift p{
+    color: white;
+}
+.right p{
+    color: white;
+}
+.right{
+    display: flex;
+   gap: 40px;
+}
+.texts{
+    display: flex;
+    gap: 441px;
+    padding-left: 200px;
+   padding-top: 16px;
+}
